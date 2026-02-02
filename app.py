@@ -91,3 +91,4 @@ if model is not None:
 
 else:
     st.warning("Le modèle n'a pas pu être chargé. L'application ne peut pas fonctionner.")
+    
